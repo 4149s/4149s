@@ -1,4 +1,4 @@
-## Hi there 👋
+##Shcool project but github is blocked D:
 
 <!--
 **4149s/4149s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
